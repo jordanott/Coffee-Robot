@@ -1,5 +1,6 @@
 # CoffeeRobot
 RaspberryPi CV module that tracks the state of a coffee pot
+
 ![Alt text](https://github.com/jordanott/Coffee-Robot/blob/master/coffee.jpg?raw=true "Coffee")
 ## Prerequisites
 
